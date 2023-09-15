@@ -2,7 +2,7 @@
 A simple bs-setup index html creator program for Windows.
 
 ## Install:
-1) Download the latest release from [here](https://github.com/sanalzio/Bootstrap-Setup/releases).
+1) Download the latest release from [here]((https://github.com/sanalzio/Boostrap-Setup/releases)).
 
 2) Extract files.
 
